@@ -51,16 +51,19 @@ Collective decision making rule where participants express how strongly they fee
 #### The buzz on QV
 @snapend
 
-http://www.spectator.co.uk/features/9512322/humans-are-doing-democracy-wrong-bees-are-doing-it-right/
+[The Spectator](http://www.spectator.co.uk/features/9512322/humans-are-doing-democracy-wrong-bees-are-doing-it-right/)
 
-http://www.slate.com/articles/news_and_politics/view_from_chicago/2013/06/new_york_s_bike_share_try_quadratic_vote_buying_to_figure_out_if_people.html
+[Slate](http://www.slate.com/articles/news_and_politics/view_from_chicago/2013/06/new_york_s_bike_share_try_quadratic_vote_buying_to_figure_out_if_people.html)
 
-http://chronicle.com/article/To-Avoid-the-Tyranny-of-the/142621/
+[The Chronicle](http://chronicle.com/article/To-Avoid-the-Tyranny-of-the/142621/)
 
-http://newcity.com/2014/03/06/votes-for-sale-how-more-money-in-politics-might-make-illinois-and-america-a-better-place/
+[Financial Times](https://www.ft.com/intl/cms/s/0/bc8c482e-fe65-11e4-8efb-00144feabdc0.html)
 
-https://www.wsj.com/articles/saving-democracy-with-quadratic-equations-1421425742
+[New City](http://newcity.com/2014/03/06/votes-for-sale-how-more-money-in-politics-might-make-illinois-and-america-a-better-place/)
 
+[Wall Street Journal](https://www.wsj.com/articles/saving-democracy-with-quadratic-equations-1421425742)
+
+[Hacker News](https://news.ycombinator.com/item?id=9477747)
 ---
 
 @snap[north]
@@ -69,10 +72,10 @@ https://www.wsj.com/articles/saving-democracy-with-quadratic-equations-142142574
 
 [Voting Squared](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2343956)
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2571012
+[Robustness of Quadratic Voting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2571012)
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2003531
+[Quadratic Voting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2003531)
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2264245
+[Quadratic Voting as Efficient Corporate Governance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2264245)
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2571026
+[The Efficiency of Quadratic Voting in Finite Populations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2571026)
