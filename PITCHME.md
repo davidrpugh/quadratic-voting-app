@@ -67,7 +67,7 @@ https://www.wsj.com/articles/saving-democracy-with-quadratic-equations-142142574
 #### Academic articles on QV
 @snapend
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2343956
+[Voting Squared](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2343956)
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2571012
 
