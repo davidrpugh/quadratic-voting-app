@@ -30,7 +30,6 @@ Collective decision making rule where participants express how strongly they fee
 ## How does QV work?
 
 @ul[spaced]
-* Based on market principles!
 * Participants are given budget of "voice credits" (possibly storable).
 * Voice credits are spent to influence the outcome of decisions.
 * Participant with a strong preference, for or against a decision, can allocate more voice credits.
@@ -38,10 +37,14 @@ Collective decision making rule where participants express how strongly they fee
 * Each additional vote purchased is increasingly expensive.
 @ulend
 
----?image=assets/img/vote-pricing-rule.png&size=75% 75%
+---?image=assets/img/vote-pricing-example.png&size=75% 75%
 
 @snap[north]
 #### Vote Pricing Example
 @snapend
 
 ---?image=assets/img/collective-decision-engines.png&size=75% 75%
+
+@snap[north]
+#### https://collectivedecisionengines.com/
+@snapend
