@@ -37,7 +37,7 @@ Collective decision making rule where participants express how strongly they fee
 * Each additional vote purchased is increasingly expensive.
 @ulend
 
----?image=assets/img/vote-pricing-example.png&size=75% 75%
+---?image=assets/img/vote-pricing-example.png
 
 @snap[north]
 #### Vote Pricing Example
