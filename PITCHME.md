@@ -16,13 +16,14 @@
 
 #### Dr. David R. Pugh
 Staff Scientist, KVL
+
 Associate, INET, University of Oxford
 
 ---
 
 #### What is QV?
 
-Collective decision making rule where participants express how strongly they feel about an issue rather than just whether or not they are in favor (or opposed).
+Collective decision making rule where participants express how strongly they feel about an issue rather than just whether or not they are in favor.
 
 ---
 
@@ -30,16 +31,17 @@ Collective decision making rule where participants express how strongly they fee
 
 @ul[spaced]
 * Based on market principles!
-* Participants are given budget of "voice credits".
+* Participants are given budget of "voice credits" (possibly storable).
 * Voice credits are spent to influence the outcome of decisions.
-* Participant with a strong preference (for or against) a decision can allocate more voice credits.
-* Vote pricing rule determines the cost of additional votes (each additional vote becoming increasingly expensive).
+* Participant with a strong preference, for or against a decision, can allocate more voice credits.
+* Vote pricing rule determines the cost of additional votes in terms of voice credits.
+* Each additional vote purchased is increasingly expensive.
 @ulend
 
----?image=assets/img/data-science-programming-languages.png&size=75% 75%
+---?image=assets/img/vote-pricing-rule.png&size=75% 75%
 
 @snap[north]
 #### Vote Pricing Example
 @snapend
 
----
+---?image=assets/img/collective-decision-engines.png&size=75% 75%
