@@ -44,3 +44,35 @@ Collective decision making rule where participants express how strongly they fee
 @snap[north]
 #### https://collectivedecisionengines.com/
 @snapend
+
+---
+
+@snap[north]
+#### The buzz on QV
+@snapend
+
+http://www.spectator.co.uk/features/9512322/humans-are-doing-democracy-wrong-bees-are-doing-it-right/
+
+http://www.slate.com/articles/news_and_politics/view_from_chicago/2013/06/new_york_s_bike_share_try_quadratic_vote_buying_to_figure_out_if_people.html
+
+http://chronicle.com/article/To-Avoid-the-Tyranny-of-the/142621/
+
+http://newcity.com/2014/03/06/votes-for-sale-how-more-money-in-politics-might-make-illinois-and-america-a-better-place/
+
+https://www.wsj.com/articles/saving-democracy-with-quadratic-equations-1421425742
+
+---
+
+@snap[north]
+#### Academic articles on QV
+@snapend
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2343956
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2571012
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2003531
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2264245
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2571026
